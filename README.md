@@ -1,5 +1,5 @@
 # Kernel Chat: AI-Powered Embedded Linux Development Assistant
-#### Last Updated: 24.08.2025 ✅
+#### Last Tested: 24.08.2025 ✅
 
 **Kernel Chat** is an advanced **AI-powered CLI tool** forked from **Google's Gemini-CLI**, specifically enhanced for **embedded Linux developers** and **kernel engineers**. It combines the power of Google's Gemini AI with specialized tools for embedded systems development, serial console debugging, intelligent code generation, and comprehensive documentation analysis.
 
